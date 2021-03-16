@@ -1,0 +1,13 @@
+Sizden istenilen şey, basit bir websitesi arayüzü yapmanız. Arkaplanda çalışan hiçbir fonksiyon olmamalı. Yalnızca görsel bir tasarım olmalı. Web site yapısında HTML kullanmalısınız. Style vermek için CSS kullanabilirsiniz. Derste görmediğiniz için Style eklemek zorunda değilsiniz. Ama çok basit olduğunu ve sizlerin yapabileceğini düşünüyorum. Unutmayın, okul yavaş ilerler; siz kendi eforunuzu ortaya koyup okuldan bir adım önde gitmeye çalışın. (Yine de Style eklemek zorunda değilsiniz :) )
+
+Yapacağınız tasarımda;
+- birkaç farklı boyutta header,
+- birkaç farklı fontta paragraf,
+- birkaç tane hyperlink,
+- bir tane image,
+- bir tane tablo olması, yeterli olacaktır. Bunlara opsiyonel olarak Style eklemeniz güzel olur.
+
+Submit edeceğiniz şeyler;
+1. yaptığınız tasarımı derlediğinizde ortaya çıkan website görselinin ekran görüntüsü (.jpg, .png, .jfif formatlarından biri),
+2. html-css kodları (tek bir .html dosyası)
+bunları tek bir .zip dosyasında sıkıştırarak submit etmelisiniz.
